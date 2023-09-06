@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomHelperMethods", "CustomHelperMethods\CustomHelperMethods.csproj", "{3B7CD7C9-37B9-48FF-A955-4293210933FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B7CD7C9-37B9-48FF-A955-4293210933FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7CD7C9-37B9-48FF-A955-4293210933FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7CD7C9-37B9-48FF-A955-4293210933FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7CD7C9-37B9-48FF-A955-4293210933FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC8EC53-ED00-4E53-85BA-94337E411880}
+	EndGlobalSection
+EndGlobal
